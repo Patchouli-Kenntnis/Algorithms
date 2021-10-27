@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\Algorithms\bin\Release\netcoreapp2.1\Algorithms.deps.json
+C:\Users\Lenovo\source\repos\Algorithms\bin\Release\netcoreapp2.1\Algorithms.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Algorithms\bin\Release\netcoreapp2.1\Algorithms.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\Algorithms\bin\Release\netcoreapp2.1\Algorithms.dll
+C:\Users\Lenovo\source\repos\Algorithms\bin\Release\netcoreapp2.1\Algorithms.pdb
+C:\Users\Lenovo\source\repos\Algorithms\obj\Release\netcoreapp2.1\Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Algorithms\obj\Release\netcoreapp2.1\Algorithms.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Algorithms\obj\Release\netcoreapp2.1\Algorithms.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Algorithms\obj\Release\netcoreapp2.1\Algorithms.dll
+C:\Users\Lenovo\source\repos\Algorithms\obj\Release\netcoreapp2.1\Algorithms.pdb
+C:\Users\Lenovo\source\repos\Algorithms\obj\Release\netcoreapp2.1\Algorithms.csprojAssemblyReference.cache
